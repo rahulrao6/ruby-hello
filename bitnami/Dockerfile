@@ -1,4 +1,4 @@
-FROM ruby:latest
+FROM bitnami/ruby:latest
 
 WORKDIR /app
 #Copy Source Files
